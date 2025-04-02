@@ -4,4 +4,7 @@ In this project, we analyze two datasets to uncover trends in the music industry
 
 # DATASET USED 
 https://github.com/Aastha1809/TABLEAU-PRACTICE-/blob/main/songs_normalize.csv
+https://github.com/Aastha1809/TABLEAU-PRACTICE-/blob/main/Most%20Streamed%20Spotify%20Songs%202024.csv
+
+
 
